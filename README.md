@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudSherif
 - 👀 I’m interested in Coding and Embedded Systems
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python
 
 
 <!---
